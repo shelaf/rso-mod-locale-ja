@@ -1,13 +1,13 @@
 {
   "name": "rso-mod-localeja",
-  "version": "0.1.1",
-  "factorio_version": "0.16",
+  "version": "0.1.2",
+  "factorio_version": "0.17",
   "title": "Resource Spawner Overhaul locale translations for ja",
   "author": "shela",
   "homepage": "https://mods.factorio.com/mod/rso-mod-localeja",
   "description": "Resource Spawner Overhaul locale translations for Japanese",
   "dependencies": [
-    "base >= 0.16",
+    "base >= 0.17",
     "rso-mod"
   ]
 }
